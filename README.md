@@ -27,3 +27,12 @@ UNIX의기초
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+
+## 📚 Currently Learning
+
+- Data Structure
+- Algorithm
+- C / C++
+- Java
+- Backend Development
+- Docker & Deployment
